@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devmridul Aka Mridul Singh.
+- 👋 Hi, I’m @devmridul Aka Mridul Anand Singh.
 - 👀 I’m interested in web developement and ethical hacking.
 - 🌱 I’m currently learning computer science with specialisation in cyber security from The University Of New South Wales.
 - 💞️ I’m looking to collaborate on web app developement. 
